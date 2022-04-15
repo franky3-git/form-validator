@@ -56,13 +56,11 @@ label {
 
 i {
 	visibility: hidden;
-	padding: 3px;
 	border-radius: 50%;
-	background: red;
 	position: absolute;
-	color: #eee;
+	color: red;
 	right: 10px;
-	top: 30px;
+	top: 33px;
 	font-size: .8rem;
 }
 button[type="submit"] {

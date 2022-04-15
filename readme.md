@@ -27,5 +27,6 @@ const lessThanFourChars = (inputValue, input) => {
 }
 
 ````
+6. we will improve the project with some backend validation to and some response when the form is submitted
 
-6. please excuse my english i will improve it. (hahahaha)
+7. please excuse my english i will improve it.(hahahaha).
